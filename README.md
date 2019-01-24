@@ -1,6 +1,8 @@
 # Real time age recognition - Back End
 
-*Authors*: Damian Gutowski, Piotr Wawrzyniak, Dasha Hubernatorova
+*Authors*: Damian Gutowski, Piotr Wawrzyniak, Daria Hubernatorova
+
+This project was created during Case Studies 2019 Winter semester https://github.com/pbiecek/CaseStudies2019W.
 
 ## 1. Technologies used
  - Python
